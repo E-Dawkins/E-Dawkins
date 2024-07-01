@@ -7,7 +7,7 @@ Game Programmer - Gameplay / Tools
 I am a game programmer who specializes in gameplay and tools programming. I started off learning Python and Game Maker Studio, but have found a passion for using both the Unity and Unreal game engines. I also love to make modular gameplay systems for others to use in their projects!
 
 * 🌍  I'm based in Sydney
-* 🖥️  See my portfolio at [My Portfolio]([http://ethanjdawkins.wixsite.com/e-dawkins-portfolio](https://e-dawkins.github.io/))
+* 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.github.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
 * 🚀  I'm currently working on [Modular Ability System](http://github.com/E-Dawkins/AbilitySystem)
 * 🧠  I'm learning Unreal, Unity, C++, C#
