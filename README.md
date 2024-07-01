@@ -9,7 +9,7 @@ I am a game programmer who specializes in gameplay and tools programming. I star
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.github.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
-* 🚀  I'm currently working on [Modular Ability System](http://github.com/E-Dawkins/AbilitySystem)
+* 🚀  I'm currently working on [2D Physics Engine](https://github.com/E-Dawkins/2DPhysics)
 * 🧠  I'm learning Unreal, Unity, C++, C#
 * 🤝  I'm open to collaborating on other Unreal projects!
 * ⚡  I have a dog named Charlie
