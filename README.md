@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ethan Dawkins
 =====================================================================================================================================
 
-Game Programmer - Gameplay / Tools
+Gameplay Programmer
 ----------------------------------
 
-I am a game programmer who specializes in gameplay and tools programming. I started off learning Python and Game Maker Studio, but have found a passion for using both the Unity and Unreal game engines. I also love to make modular gameplay systems for others to use in their projects!
+I am a competent game programmer who specializes in gameplay mechanics programming, I have experience using both the Unreal and Unity game engines. I am proficient in programming in the C++ and C# software languages and using those skills I have made many games in both game engines, as well as pure console applications.
 
 * 🌍  I'm based in Sydney
-* 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.github.io/)
+* 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.itch.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
-* 🚀  I'm currently working on [2D Physics Engine](https://github.com/E-Dawkins/2DPhysics)
+* 🚀  I'm currently working on [Cop Horror Game]([https://github.com/E-Dawkins/2DPhysics](https://github.com/E-Dawkins/Cop-Horror-Game))
 * 🧠  I'm learning Unreal, Unity, C++, C#
 * 🤝  I'm open to collaborating on other Unreal projects!
 * ⚡  I have a dog named Charlie
