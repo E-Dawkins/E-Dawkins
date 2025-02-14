@@ -9,7 +9,7 @@ I am a competent game programmer who specializes in gameplay mechanics programmi
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.itch.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
-* 🚀  I'm currently working on [Cop Horror Game]([https://github.com/E-Dawkins/2DPhysics](https://github.com/E-Dawkins/Cop-Horror-Game))
+* 🚀  I'm currently working on a C++ [Minecraft Clone](https://github.com/E-Dawkins/Minecraft-Clone)
 * 🧠  I'm learning Unreal, Unity, C++, C#
 * 🤝  I'm open to collaborating on other Unreal projects!
 * ⚡  I have a dog named Charlie
