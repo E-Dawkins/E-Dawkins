@@ -9,7 +9,7 @@ I am a competent game programmer who specializes in gameplay mechanics programmi
 * 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.itch.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
-* 🚀  I'm currently working on a Unity [Bouncing Squares Game](https://github.com/E-Dawkins/Bouncing-Square-Game)
+* 🚀  I'm currently working on my own Sci-fi fps, in Unreal Engine
 * 🧠  I'm learning Unreal, Unity, C++, C#
 * 🤝  I'm open to collaborating on other Unreal projects!
 * ⚡  I have a dog named Charlie
