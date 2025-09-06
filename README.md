@@ -6,7 +6,6 @@ Gameplay Programmer
 
 I am a competent game programmer who specializes in gameplay mechanics programming, I have experience using both the Unreal and Unity game engines. I am proficient in programming in the C++ and C# software languages and using those skills I have made many games in both game engines, as well as pure console applications.
 
-* 🌍  I'm based in Sydney
 * 🖥️  See my portfolio at [My Portfolio](https://e-dawkins.itch.io/)
 * ✉️  You can contact me at [ethandawkins@hotmail.co.uk](mailto:ethandawkins@hotmail.co.uk)
 * 🚀  I'm currently working on my own Sci-fi fps, in Unreal Engine
